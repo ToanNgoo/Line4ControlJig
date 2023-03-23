@@ -1,0 +1,431 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1. Program\6. PBA#6\4. FU machine\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1. Program\5. PBA#5\4. FU\CONTROL JIG FCT LINE 5 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1. Program\4. PBA#4\4. FU\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1. Program\4. PBA#4\4. FU\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\4. PBA#4\4. FU\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\1. Program\4. PBA#4\4. FU\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1. Program\4. PBA#4\4. FU\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\Hoc C sharp\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\C#\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\khanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.0.85.5.452.Fakes.pdb
+D:\qkhanh\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.0.85.5.452.Fakes.xml
+D:\qkhanh1\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\qkhanh1\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\qkhanh1\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\qkhanh1\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\qkhanh1\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.0.85.5.452.Fakes.pdb
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.0.85.5.452.Fakes.xml
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.0.85.5.452.Fakes.pdb
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.0.85.5.452.Fakes.xml
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Program\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\InOut_PCM\old_InOut PCM\qkhanh1\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\check thong so\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PCM INOUT\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\Auto_check\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ \CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\2020\HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Project\2020\01.HHP\CONTROL JIG FCT LINE 4 AF3 CAI TIEN 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Project\2020\01. Count Pin Function\01. Count Pin Line 4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Project\2020\01. Count Pin Function\02. Ver2\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. Project\02. 2021\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. Project\02. 2021\10. Back up\05. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\02. 2021\10. Back up\02. Capaup\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. CPE DEV\02. 2021\10. Back up\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.exe.config
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.exe
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.pdb
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\Control Jig HHP Ver 1.3.exe
+D:\01. CPE DEV\02. 2021\10. Back up\220523 Line 4\01.Line4\WindowsFormsApplication1\obj\Debug\Control Jig HHP Ver 1.3.pdb
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.exe.config
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\Control Jig HHP Ver 1.3.exe
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\Control Jig HHP Ver 1.3.pdb
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.exe
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.pdb
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. CPE DEV\03. 2022\Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.exe.config
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\Interop.VBIDE.dll
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\Control Jig HHP Ver 1.3.exe
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\Control Jig HHP Ver 1.3.pdb
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.exe
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\bin\Debug\Control Jig HHP Ver 1.3.pdb
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\01. CPE DEV\03. 2022\01. Back up\01. Control Jig HHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
